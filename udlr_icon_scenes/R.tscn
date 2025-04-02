@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://b4qyncdju214a"]
+
+[ext_resource type="PackedScene" uid="uid://c405fkeeitu6g" path="res://udlr_icon_scenes/udlr.tscn" id="1_0nj0b"]
+[ext_resource type="Texture2D" uid="uid://8ol4pbeh24gs" path="res://icon/R.png" id="2_gqyj1"]
+
+[node name="TextureRect" instance=ExtResource("1_0nj0b")]
+texture = ExtResource("2_gqyj1")

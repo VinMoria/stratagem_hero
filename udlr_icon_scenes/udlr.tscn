@@ -1,0 +1,17 @@
+[gd_scene load_steps=5 format=3 uid="uid://c405fkeeitu6g"]
+
+[ext_resource type="Texture2D" uid="uid://dads2jap44rsb" path="res://icon/D.png" id="1_cca0t"]
+[ext_resource type="Shader" path="res://udlr_icon_scenes/white_to_yellow.gdshader" id="1_lvijm"]
+[ext_resource type="Script" path="res://udlr_icon_scenes/udlr.gd" id="3_qfyhg"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_5y1f1"]
+resource_local_to_scene = true
+shader = ExtResource("1_lvijm")
+shader_parameter/progress = 0.0
+shader_parameter/target_color = Color(1, 1, 0, 1)
+
+[node name="TextureRect" type="TextureRect"]
+material = SubResource("ShaderMaterial_5y1f1")
+texture = ExtResource("1_cca0t")
+stretch_mode = 3
+script = ExtResource("3_qfyhg")

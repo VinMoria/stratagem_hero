@@ -1,0 +1,28 @@
+[gd_scene load_steps=4 format=3 uid="uid://b8ugwhp4xcl5l"]
+
+[ext_resource type="Script" path="res://home.gd" id="1_cvmc5"]
+
+[sub_resource type="Theme" id="Theme_0a2th"]
+default_font_size = 30
+
+[sub_resource type="Theme" id="Theme_aiwpl"]
+default_font_size = 100
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_cvmc5")
+
+[node name="Label" type="Label" parent="."]
+offset_left = 776.0
+offset_top = 752.0
+offset_right = 1057.0
+offset_bottom = 794.0
+theme = SubResource("Theme_0a2th")
+text = "Press Enter to Start"
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 528.0
+offset_top = 377.0
+offset_right = 1342.0
+offset_bottom = 514.0
+theme = SubResource("Theme_aiwpl")
+text = "Stratagems Hero"
