@@ -10,7 +10,7 @@ default_font_size = 50
 script = ExtResource("1_p5oxa")
 
 [node name="icon" type="Sprite2D" parent="."]
-position = Vector2(616, 512)
+position = Vector2(586, 512)
 scale = Vector2(4.31667, 4.31667)
 texture = ExtResource("2_iqbrk")
 

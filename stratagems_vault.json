@@ -368,7 +368,7 @@
             "U",
             "D"
         ],
-        "des_zh": "超级地球大炮",
+        "des_zh": "超级地球武装大炮",
         "des_en": "SEAF Artillery"
     },
     {
@@ -721,5 +721,192 @@
         ],
         "des_zh": "“飞鹰” 500KG炸弹",
         "des_en": "Eagle 500kg Bomb"
+    },
+    {
+        "id": 61,
+        "des_zh": "轨道凝固汽油弹火力网",
+        "des_en": "Orbital Napalm Barrage",
+        "q_list": [
+            "R",
+            "R",
+            "D",
+            "L",
+            "R",
+            "U"
+        ]
+    },
+    {
+        "id": 62,
+        "des_zh": "定向护盾",
+        "des_en": "Directional Shield",
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "R",
+            "U",
+            "U"
+        ]
+    },
+    {
+        "id": 63,
+        "des_zh": "悬浮背包",
+        "des_en": "Hover Pack",
+        "q_list": [
+            "D",
+            "U",
+            "U",
+            "D",
+            "L",
+            "R"
+        ]
+    },
+    {
+        "id": 64,
+        "des_zh": "便携式地狱火炸弹",
+        "des_en": "Portable Hellbomb",
+        "q_list": [
+            "D",
+            "R",
+            "U",
+            "U",
+            "U"
+        ]
+    },
+    {
+        "id": 65,
+        "des_zh": "“护卫犬”腐息",
+        "des_en": "\"Guard Dog\" Dog Breath",
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "U",
+            "R",
+            "U"
+        ]
+    },
+    {
+        "id": 66,
+        "des_zh": "快速侦察载具",
+        "des_en": "Fast Recon Vehicle",
+        "q_list": [
+            "L",
+            "D",
+            "R",
+            "D",
+            "R",
+            "D",
+            "U"
+        ]
+    },
+    {
+        "id": 67,
+        "des_zh": "“解放者”外骨骼装甲",
+        "des_en": "Emancipator Exosuit",
+        "q_list": [
+            "L",
+            "D",
+            "R",
+            "U",
+            "L",
+            "D",
+            "U"
+        ]
+    },
+    {
+        "id": 68,
+        "des_zh": "火焰喷射哨戒炮",
+        "des_en": "Flame Sentry",
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "R",
+            "U"
+        ]
+    },
+    {
+        "id": 69,
+        "des_zh": "掷弹兵防卫墙",
+        "des_en": "Grenadier Battlement",
+        "q_list": [
+            "D",
+            "R",
+            "D",
+            "L",
+            "R"
+        ]
+    },
+    {
+        "id": 70,
+        "des_zh": "反坦克炮台",
+        "des_en": "Anti-Tank Emplacement",
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "R",
+            "R",
+            "R"
+        ]
+    },
+    {
+        "id": 71,
+        "des_zh": "毒气地雷",
+        "des_en": "Gas Mines",
+        "q_list": [
+            "D",
+            "L",
+            "L",
+            "R"
+        ]
+    },
+    {
+        "id": 72,
+        "des_zh": "反坦克地雷",
+        "des_en": "Anti-Tank Mines",
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "U"
+        ]
+    },
+    {
+        "id": 73,
+        "des_zh": "灭菌器",
+        "des_en": "Sterilizer",
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "D",
+            "L"
+        ]
+    },
+    {
+        "id": 74,
+        "des_zh": "突击兵",
+        "des_en": "Commando",
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "D",
+            "R"
+        ]
+    },
+    {
+        "id": 75,
+        "des_zh": "StA-X3_W.A.S.P.发射器",
+        "des_en": "StA-X3_W.A.S.P.",
+        "q_list": [
+            "D",
+            "D",
+            "U",
+            "D",
+            "R"
+        ]
     }
 ]

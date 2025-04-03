@@ -4,7 +4,7 @@
 [ext_resource type="AudioStream" uid="uid://dmlfmaam16ixo" path="res://udlr_icon_scenes/Click.wav" id="2_oiuqk"]
 [ext_resource type="Texture2D" uid="uid://ct4yi2fjeo4ru" path="res://bar_under.png" id="3_lu8n4"]
 [ext_resource type="Texture2D" uid="uid://bw13g8kpkuc1x" path="res://bar_progress.png" id="4_j2jj3"]
-[ext_resource type="Script" uid="uid://8h0dhj4w5n0i" path="res://timer.gd" id="5_3ouqh"]
+[ext_resource type="Script" uid="uid://d1yprwsid4g10" path="res://timer.gd" id="5_3ouqh"]
 
 [sub_resource type="Theme" id="Theme_cj1hs"]
 default_font_size = 60
@@ -12,7 +12,7 @@ default_font_size = 60
 [sub_resource type="Theme" id="Theme_cx2wq"]
 default_font_size = 50
 
-[node name="Main" type="Node2D"]
+[node name="Main2" type="Node2D"]
 
 [node name="Question" type="HBoxContainer" parent="." node_paths=PackedStringArray("timer", "res_label")]
 anchors_preset = 8
