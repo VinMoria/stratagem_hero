@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://bf5gh5j0peifs"]
+[gd_scene load_steps=8 format=3 uid="uid://bf5gh5j0peifs"]
 
 [ext_resource type="Script" path="res://inputControl.gd" id="1_ysqd2"]
 [ext_resource type="AudioStream" uid="uid://dmlfmaam16ixo" path="res://udlr_icon_scenes/Click.wav" id="2_oiuqk"]
@@ -8,6 +8,9 @@
 
 [sub_resource type="Theme" id="Theme_cj1hs"]
 default_font_size = 60
+
+[sub_resource type="Theme" id="Theme_cx2wq"]
+default_font_size = 50
 
 [node name="Main" type="Node2D"]
 
@@ -52,4 +55,13 @@ offset_bottom = 490.0
 theme = SubResource("Theme_cj1hs")
 text = "XXX"
 
+[node name="Btn_Esc" type="Button" parent="."]
+offset_left = 74.0
+offset_top = 61.0
+offset_right = 159.0
+offset_bottom = 138.0
+theme = SubResource("Theme_cx2wq")
+text = "Esc"
+
 [connection signal="timeout" from="Timer" to="Question" method="game_over"]
+[connection signal="pressed" from="Btn_Esc" to="Question" method="go_home"]

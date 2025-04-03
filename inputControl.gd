@@ -19,6 +19,9 @@ var time_reward
 func _ready():
     start_game()
 
+func go_home():
+    get_tree().change_scene_to_file("res://home.tscn")
+
 func start_game():
     time_reward = 2
     res_label.text = "Score: 0"

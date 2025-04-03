@@ -2,27 +2,52 @@
 
 [ext_resource type="Script" path="res://home.gd" id="1_cvmc5"]
 
-[sub_resource type="Theme" id="Theme_0a2th"]
-default_font_size = 30
-
 [sub_resource type="Theme" id="Theme_aiwpl"]
 default_font_size = 100
+
+[sub_resource type="Theme" id="Theme_t5u6h"]
+default_font_size = 50
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_cvmc5")
 
-[node name="Label" type="Label" parent="."]
-offset_left = 776.0
-offset_top = 752.0
-offset_right = 1057.0
-offset_bottom = 794.0
-theme = SubResource("Theme_0a2th")
-text = "Press Enter to Start"
-
-[node name="Label2" type="Label" parent="."]
-offset_left = 528.0
+[node name="title" type="Label" parent="."]
+offset_left = 518.0
 offset_top = 377.0
-offset_right = 1342.0
+offset_right = 1332.0
 offset_bottom = 514.0
 theme = SubResource("Theme_aiwpl")
 text = "Stratagems Hero"
+
+[node name="Btn_random" type="Button" parent="."]
+offset_left = 748.0
+offset_top = 604.0
+offset_right = 1036.0
+offset_bottom = 667.0
+theme = SubResource("Theme_t5u6h")
+text = "Random Mode
+"
+flat = true
+
+[node name="Btn_stratagem" type="Button" parent="."]
+offset_left = 729.0
+offset_top = 719.0
+offset_right = 1139.0
+offset_bottom = 796.0
+theme = SubResource("Theme_t5u6h")
+text = "Stratagem Mode
+"
+flat = true
+
+[node name="Btn_Exit" type="Button" parent="."]
+offset_left = 729.0
+offset_top = 829.0
+offset_right = 1139.0
+offset_bottom = 906.0
+theme = SubResource("Theme_t5u6h")
+text = "Exit"
+flat = true
+
+[connection signal="pressed" from="Btn_random" to="." method="go_random"]
+[connection signal="pressed" from="Btn_stratagem" to="." method="go_stratagem"]
+[connection signal="pressed" from="Btn_Exit" to="." method="end_game"]
