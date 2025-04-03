@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://b1xfls7njyy7p"]
 
-[ext_resource type="Script" path="res://stratagem_panel.gd" id="1_p5oxa"]
+[ext_resource type="Script" uid="uid://d1ergdblrqlxc" path="res://stratagem_panel.gd" id="1_p5oxa"]
 [ext_resource type="Texture2D" uid="uid://cwdq8xvn4u5aw" path="res://stratagem_icons/1.webp" id="2_iqbrk"]
 
 [sub_resource type="Theme" id="Theme_xst4y"]

@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://6m8gc2n4bgl3"]
 
 [ext_resource type="PackedScene" uid="uid://bf5gh5j0peifs" path="res://main.tscn" id="1_qxyg3"]
-[ext_resource type="Script" path="res://inputControl_s.gd" id="2_257m7"]
+[ext_resource type="Script" uid="uid://cy5gyeh2f2oak" path="res://inputControl_s.gd" id="2_257m7"]
 [ext_resource type="PackedScene" uid="uid://b1xfls7njyy7p" path="res://stratagem_panel.tscn" id="3_4ejsy"]
 
 [node name="Main" instance=ExtResource("1_qxyg3")]
