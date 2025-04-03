@@ -1,5 +1,7 @@
 extends HBoxContainer
 
+class_name inputControl
+
 @export var timer: TextureProgressBar
 @export var res_label: Label
 

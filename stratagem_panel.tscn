@@ -1,0 +1,32 @@
+[gd_scene load_steps=4 format=3 uid="uid://b1xfls7njyy7p"]
+
+[ext_resource type="Script" path="res://stratagem_panel.gd" id="1_p5oxa"]
+[ext_resource type="Texture2D" uid="uid://cwdq8xvn4u5aw" path="res://stratagem_icons/1.webp" id="2_iqbrk"]
+
+[sub_resource type="Theme" id="Theme_xst4y"]
+default_font_size = 50
+
+[node name="stratagem_panel" type="Node2D"]
+script = ExtResource("1_p5oxa")
+
+[node name="icon" type="Sprite2D" parent="."]
+position = Vector2(616, 512)
+scale = Vector2(4.31667, 4.31667)
+texture = ExtResource("2_iqbrk")
+
+[node name="des_zh" type="Label" parent="."]
+offset_left = 712.0
+offset_top = 440.0
+offset_right = 912.0
+offset_bottom = 509.0
+theme = SubResource("Theme_xst4y")
+text = "中文描述
+"
+
+[node name="des_en" type="Label" parent="."]
+offset_left = 712.0
+offset_top = 520.0
+offset_right = 1193.0
+offset_bottom = 589.0
+theme = SubResource("Theme_xst4y")
+text = "English Descroption"

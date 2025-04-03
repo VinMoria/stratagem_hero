@@ -1,0 +1,725 @@
+[
+    {
+        "id": 1,
+        "q_list": [
+            "D",
+            "U",
+            "U",
+            "D",
+            "U"
+        ],
+        "des_zh": "喷射背包",
+        "des_en": "Jump Pack"
+    },
+    {
+        "id": 2,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "U",
+            "U",
+            "D"
+        ],
+        "des_zh": "补给背包",
+        "des_en": "Supply Pack"
+    },
+    {
+        "id": 3,
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "U",
+            "R",
+            "R"
+        ],
+        "des_zh": "“护卫犬”漫游车",
+        "des_en": "\"Guard Dog\" Rover"
+    },
+    {
+        "id": 4,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "D",
+            "U",
+            "L"
+        ],
+        "des_zh": "防弹护盾背包",
+        "des_en": "Ballistic Shield Backpack"
+    },
+    {
+        "id": 5,
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "R",
+            "L",
+            "R"
+        ],
+        "des_zh": "防护罩生成包",
+        "des_en": "Shield Generator Pack"
+    },
+    {
+        "id": 6,
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "U",
+            "R",
+            "D"
+        ],
+        "des_zh": "“护卫犬”",
+        "des_en": "\"Guard Dog\""
+    },
+    {
+        "id": 7,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "U",
+            "R"
+        ],
+        "des_zh": "机枪",
+        "des_en": "Machine Gun"
+    },
+    {
+        "id": 8,
+        "q_list": [
+            "D",
+            "L",
+            "R",
+            "U",
+            "D"
+        ],
+        "des_zh": "反器材步枪",
+        "des_en": "Anti-Material Rifle"
+    },
+    {
+        "id": 9,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "U",
+            "U",
+            "L"
+        ],
+        "des_zh": "盟友",
+        "des_en": "Stalwart"
+    },
+    {
+        "id": 10,
+        "q_list": [
+            "D",
+            "D",
+            "L",
+            "U",
+            "R"
+        ],
+        "des_zh": "消耗性反坦克武器",
+        "des_en": "Expendable Anti-Tank"
+    },
+    {
+        "id": 11,
+        "q_list": [
+            "D",
+            "L",
+            "R",
+            "R",
+            "L"
+        ],
+        "des_zh": "无后座力步枪",
+        "des_en": "Recoilless Rifle"
+    },
+    {
+        "id": 12,
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "D",
+            "U"
+        ],
+        "des_zh": "火焰喷射器",
+        "des_en": "Flamethrower"
+    },
+    {
+        "id": 13,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "U",
+            "U",
+            "R"
+        ],
+        "des_zh": "机炮",
+        "des_en": "Autocannon"
+    },
+    {
+        "id": 14,
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "D",
+            "D"
+        ],
+        "des_zh": "重机枪",
+        "des_en": "Heavy Machine Gun"
+    },
+    {
+        "id": 15,
+        "q_list": [
+            "D",
+            "R",
+            "D",
+            "U",
+            "L",
+            "R"
+        ],
+        "des_zh": "磁轨炮",
+        "des_en": "Railgun"
+    },
+    {
+        "id": 16,
+        "q_list": [
+            "D",
+            "D",
+            "U",
+            "D",
+            "D"
+        ],
+        "des_zh": "飞矛",
+        "des_en": "Spear"
+    },
+    {
+        "id": 17,
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "L",
+            "D"
+        ],
+        "des_zh": "榴弹发射器",
+        "des_en": "Grenade Launcher"
+    },
+    {
+        "id": 18,
+        "q_list": [
+            "D",
+            "L",
+            "D",
+            "U",
+            "L"
+        ],
+        "des_zh": "激光大炮",
+        "des_en": "Laser Cannon"
+    },
+    {
+        "id": 19,
+        "q_list": [
+            "D",
+            "R",
+            "D",
+            "U",
+            "L",
+            "L"
+        ],
+        "des_zh": "电弧发射器",
+        "des_en": "Arc Thrower"
+    },
+    {
+        "id": 20,
+        "q_list": [
+            "D",
+            "D",
+            "U",
+            "L",
+            "R"
+        ],
+        "des_zh": "类星体加农炮",
+        "des_en": "Quasar Cannon"
+    },
+    {
+        "id": 21,
+        "q_list": [
+            "L",
+            "D",
+            "R",
+            "U",
+            "L",
+            "D",
+            "D"
+        ],
+        "des_zh": "“爱国者”外骨骼装甲",
+        "des_en": "Patriot Exosuit"
+    },
+    {
+        "id": 22,
+        "q_list": [
+            "U",
+            "D",
+            "R",
+            "L",
+            "U"
+        ],
+        "des_zh": "增援",
+        "des_en": "Reinforce"
+    },
+    {
+        "id": 23,
+        "q_list": [
+            "U",
+            "D",
+            "R",
+            "U"
+        ],
+        "des_zh": "SOS信标",
+        "des_en": "SOS Beacon"
+    },
+    {
+        "id": 24,
+        "q_list": [
+            "D",
+            "D",
+            "U",
+            "R"
+        ],
+        "des_zh": "重新补给",
+        "des_en": "Resupply"
+    },
+    {
+        "id": 25,
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "D",
+            "U",
+            "R",
+            "D",
+            "U"
+        ],
+        "des_zh": "“地狱火”炸弹",
+        "des_en": "Hellbomb"
+    },
+    {
+        "id": 26,
+        "q_list": [
+            "D",
+            "D",
+            "D",
+            "U",
+            "U"
+        ],
+        "des_zh": "运送超级固态硬盘",
+        "des_en": "SSSD Delivery"
+    },
+    {
+        "id": 27,
+        "q_list": [
+            "U",
+            "U",
+            "L",
+            "R",
+            "D",
+            "D"
+        ],
+        "des_zh": "地质探测器",
+        "des_en": "Seismic Probe"
+    },
+    {
+        "id": 28,
+        "q_list": [
+            "D",
+            "D",
+            "U",
+            "U",
+            "U"
+        ],
+        "des_zh": "上传重要数据",
+        "des_en": "Upload Data"
+    },
+    {
+        "id": 29,
+        "q_list": [
+            "U",
+            "U",
+            "L",
+            "U",
+            "R"
+        ],
+        "des_zh": "重新武装飞鹰",
+        "des_en": "Eagle Rearm"
+    },
+    {
+        "id": 30,
+        "q_list": [
+            "R",
+            "U",
+            "U",
+            "D"
+        ],
+        "des_zh": "超级地球大炮",
+        "des_en": "SEAF Artillery"
+    },
+    {
+        "id": 31,
+        "q_list": [
+            "D",
+            "U",
+            "D",
+            "U"
+        ],
+        "des_zh": "超级地球旗帜",
+        "des_en": "Super Earth Flag"
+    },
+    {
+        "id": 32,
+        "q_list": [
+            "D",
+            "U",
+            "L",
+            "R",
+            "R",
+            "L"
+        ],
+        "des_zh": "重机枪部署支架",
+        "des_en": "HMG Emplacement"
+    },
+    {
+        "id": 33,
+        "q_list": [
+            "D",
+            "D",
+            "L",
+            "R",
+            "L",
+            "R"
+        ],
+        "des_zh": "防护罩生成中继器",
+        "des_en": "Shield Generator Relay"
+    },
+    {
+        "id": 34,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "U",
+            "L",
+            "R"
+        ],
+        "des_zh": "特斯拉塔",
+        "des_en": "Tesla Tower"
+    },
+    {
+        "id": 35,
+        "q_list": [
+            "D",
+            "L",
+            "U",
+            "R"
+        ],
+        "des_zh": "反步兵雷区",
+        "des_en": "Anti-Personnel Minefield"
+    },
+    {
+        "id": 36,
+        "q_list": [
+            "D",
+            "L",
+            "L",
+            "D"
+        ],
+        "des_zh": "燃烧地雷",
+        "des_en": "Incendiary Mines"
+    },
+    {
+        "id": 37,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "R",
+            "U"
+        ],
+        "des_zh": "哨戒机枪",
+        "des_en": "Machine Gun Sentry"
+    },
+    {
+        "id": 38,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "L"
+        ],
+        "des_zh": "加特林哨戒炮",
+        "des_en": "Gatling Sentry"
+    },
+    {
+        "id": 39,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "R",
+            "D"
+        ],
+        "des_zh": "迫击哨戒炮",
+        "des_en": "Mortar Sentry"
+    },
+    {
+        "id": 40,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "U",
+            "L",
+            "U"
+        ],
+        "des_zh": "自动哨戒炮",
+        "des_en": "Autocannon Sentry"
+    },
+    {
+        "id": 41,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "R",
+            "L"
+        ],
+        "des_zh": "火箭哨戒炮",
+        "des_en": "Rocket Sentry"
+    },
+    {
+        "id": 42,
+        "q_list": [
+            "D",
+            "U",
+            "R",
+            "D",
+            "R"
+        ],
+        "des_zh": "电磁冲击波哨戒炮",
+        "des_en": "EMS Mortar Sentry"
+    },
+    {
+        "id": 43,
+        "q_list": [
+            "R",
+            "D",
+            "L",
+            "U",
+            "U"
+        ],
+        "des_zh": "轨道加特林火力网",
+        "des_en": "Orbital Gatling Barrage"
+    },
+    {
+        "id": 44,
+        "q_list": [
+            "R",
+            "R",
+            "R"
+        ],
+        "des_zh": "轨道空爆攻击",
+        "des_en": "Orbital Airburst Strike"
+    },
+    {
+        "id": 45,
+        "q_list": [
+            "R",
+            "R",
+            "D",
+            "L",
+            "R",
+            "D"
+        ],
+        "des_zh": "轨道120MM高爆火力网",
+        "des_en": "Orbital 120MM HE Barrage"
+    },
+    {
+        "id": 46,
+        "q_list": [
+            "R",
+            "D",
+            "U",
+            "U",
+            "L",
+            "D",
+            "D"
+        ],
+        "des_zh": "轨道380MM高爆火力网",
+        "des_en": "Orbital 380MM HE Barrage"
+    },
+    {
+        "id": 47,
+        "q_list": [
+            "R",
+            "D",
+            "R",
+            "D",
+            "R",
+            "D"
+        ],
+        "des_zh": "轨道游走火力网",
+        "des_en": "Orbital Walking Barrage"
+    },
+    {
+        "id": 48,
+        "q_list": [
+            "R",
+            "D",
+            "U",
+            "R",
+            "D"
+        ],
+        "des_zh": "轨道激光炮",
+        "des_en": "Orbital Laser"
+    },
+    {
+        "id": 49,
+        "q_list": [
+            "R",
+            "U",
+            "D",
+            "D",
+            "R"
+        ],
+        "des_zh": "轨道炮攻击",
+        "des_en": "Orbital Railcannon Strike"
+    },
+    {
+        "id": 50,
+        "q_list": [
+            "R",
+            "R",
+            "U"
+        ],
+        "des_zh": "轨道精准攻击",
+        "des_en": "Orbital Precision Strike"
+    },
+    {
+        "id": 51,
+        "q_list": [
+            "R",
+            "R",
+            "D",
+            "R"
+        ],
+        "des_zh": "轨道毒气攻击",
+        "des_en": "Orbital Gas Strike"
+    },
+    {
+        "id": 52,
+        "q_list": [
+            "R",
+            "R",
+            "L",
+            "D"
+        ],
+        "des_zh": "轨道电磁冲击波攻击",
+        "des_en": "Orbital EMS Strike"
+    },
+    {
+        "id": 53,
+        "q_list": [
+            "R",
+            "R",
+            "D",
+            "U"
+        ],
+        "des_zh": "轨道烟雾攻击",
+        "des_en": "Orbital Smoke Strike"
+    },
+    {
+        "id": 54,
+        "q_list": [
+            "U",
+            "R",
+            "R"
+        ],
+        "des_zh": "“飞鹰” 机枪扫射",
+        "des_en": "Eagle Strafing Run"
+    },
+    {
+        "id": 55,
+        "q_list": [
+            "U",
+            "R",
+            "D",
+            "R"
+        ],
+        "des_zh": "“飞鹰” 空袭",
+        "des_en": "Eagle Airstrike"
+    },
+    {
+        "id": 56,
+        "q_list": [
+            "U",
+            "R",
+            "D",
+            "D",
+            "R"
+        ],
+        "des_zh": "“飞鹰” 集束炸弹",
+        "des_en": "Eagle Cluster Bomb"
+    },
+    {
+        "id": 57,
+        "q_list": [
+            "U",
+            "R",
+            "D",
+            "U"
+        ],
+        "des_zh": "“飞鹰” 凝固汽油弹空袭",
+        "des_en": "Eagle Napalm Strike"
+    },
+    {
+        "id": 58,
+        "q_list": [
+            "U",
+            "R",
+            "U",
+            "D"
+        ],
+        "des_zh": "“飞鹰” 烟雾攻击",
+        "des_en": "Eagle Smoke Strike"
+    },
+    {
+        "id": 59,
+        "q_list": [
+            "U",
+            "R",
+            "U",
+            "L"
+        ],
+        "des_zh": "“飞鹰” 110MM火箭巢",
+        "des_en": "Eagle 110MM Rocket Pods"
+    },
+    {
+        "id": 60,
+        "q_list": [
+            "U",
+            "R",
+            "D",
+            "D",
+            "D"
+        ],
+        "des_zh": "“飞鹰” 500KG炸弹",
+        "des_en": "Eagle 500kg Bomb"
+    }
+]

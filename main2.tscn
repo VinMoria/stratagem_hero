@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://6m8gc2n4bgl3"]
+
+[ext_resource type="PackedScene" uid="uid://bf5gh5j0peifs" path="res://main.tscn" id="1_qxyg3"]
+[ext_resource type="Script" path="res://inputControl_s.gd" id="2_257m7"]
+[ext_resource type="PackedScene" uid="uid://b1xfls7njyy7p" path="res://stratagem_panel.tscn" id="3_4ejsy"]
+
+[node name="Main" instance=ExtResource("1_qxyg3")]
+
+[node name="Question" parent="." index="0" node_paths=PackedStringArray("panel")]
+script = ExtResource("2_257m7")
+panel = NodePath("../stratagem_panel")
+
+[node name="Result" parent="." index="2"]
+offset_left = 624.0
+offset_top = 111.0
+offset_right = 1173.0
+offset_bottom = 376.0
+
+[node name="stratagem_panel" parent="." index="3" instance=ExtResource("3_4ejsy")]
+position = Vector2(74, -108)
